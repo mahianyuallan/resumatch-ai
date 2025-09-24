@@ -17,11 +17,12 @@
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React, Bootstrap / TailwindCSS  
+- **Frontend:** React, TailwindCSS  
 - **Backend:** Node.js, Express  
 - **NLP/Text Analysis:** Python / NLP libraries (spaCy, scikit-learn, etc.)  
-- **Database (optional):** MongoDB / PostgreSQL  
+- **Containerization:** Docker  
 - **Version Control:** Git + GitHub  
+
 
 ---
 
